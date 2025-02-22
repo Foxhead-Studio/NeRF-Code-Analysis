@@ -1,6 +1,6 @@
 # NeRF-Code-Analysis
 
-이 저장소는 **NeRF(Neural Radiance Fields)**의 핵심 개념을 소개하고, 실제로 구현한 Jupyter Notebook으로 구성되어있습니다.  
+이 저장소는 **NeRF(Neural Radiance Fields)** 의 핵심 개념을 소개하고, 실제로 구현한 Jupyter Notebook으로 구성되어있습니다.  
 **카메라 행렬**, **계층적 샘플링과 볼륨 렌더링**, **NeRF의 네트워크 구조** 등, 핵심적인 개념을 순서대로 설명하고,
 이것이 코드에서 어떻게 구현되었는지를 자세한 주석과 함께 소개합니다.
 
